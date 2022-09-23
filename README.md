@@ -11,7 +11,6 @@
 
 ## :pushpin: Contact
 - E-mail : thermo12357@naver.com
-- Velog : https://velog.io/@pyc970905
 - Github : https://github.com/pyc970905
 </br>
 
