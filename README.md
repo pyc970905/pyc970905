@@ -16,13 +16,13 @@
 </br>
 
 ## :pushpin: Projects
-> 1. Senti Diary
+>1. Senti Diary
 > 
-> 1.1 Server:
+>1.1 Server:
 > 
-> Main Server : https://github.com/pyc970905/sentiDiary_springBoot
-<hr>
-> Model Serving Server : https://github.com/pyc970905/sentiDiary_flask
+>Main Server : https://github.com/pyc970905/sentiDiary_springBoot
+<br>
+>Model Serving Server : https://github.com/pyc970905/sentiDiary_flask
 <!--
 **pyc970905/pyc970905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
