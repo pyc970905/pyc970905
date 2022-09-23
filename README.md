@@ -15,6 +15,9 @@
 - Github : https://github.com/pyc970905
 </br>
 
+## :pushpin: Projects
+> Senti Diary : 1. Main Server : https://github.com/pyc970905/sentiDiary_springBoot
+>               2. Model Serving Server : https://github.com/pyc970905/sentiDiary_flask
 <!--
 **pyc970905/pyc970905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
