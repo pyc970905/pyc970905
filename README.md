@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: Projects
->1. Senti Diary
+>1. Senti Diary [KoBERT 기반 일기 감정 분석 웹 서비스]
 > 
 >- Main Server : https://github.com/pyc970905/sentiDiary_springBoot
 >
